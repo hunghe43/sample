@@ -1,0 +1,2 @@
+-- generation entities from exists DB
+https://github.com/loresoft/EntityFrameworkCore.Generator

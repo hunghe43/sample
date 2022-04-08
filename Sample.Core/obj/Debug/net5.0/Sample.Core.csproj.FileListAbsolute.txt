@@ -1,0 +1,12 @@
+C:\HUNG_WORK\sample\Sample.Core\bin\Debug\net5.0\Sample.Core.deps.json
+C:\HUNG_WORK\sample\Sample.Core\bin\Debug\net5.0\Sample.Core.dll
+C:\HUNG_WORK\sample\Sample.Core\bin\Debug\net5.0\ref\Sample.Core.dll
+C:\HUNG_WORK\sample\Sample.Core\bin\Debug\net5.0\Sample.Core.pdb
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.csproj.AssemblyReference.cache
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.AssemblyInfoInputs.cache
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.AssemblyInfo.cs
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.csproj.CoreCompileInputs.cache
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.dll
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\ref\Sample.Core.dll
+C:\HUNG_WORK\sample\Sample.Core\obj\Debug\net5.0\Sample.Core.pdb
